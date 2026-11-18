@@ -6,10 +6,9 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on: web apps with React and Node.js
-- 🌱 Currently learning: TypeScript and building scalable backends
+- 🔭 Currently working on: web apps with React, Node.js and TypeScript
 - 🤝 Open to collaborating on: web development projects
-- 💬 Ask me about: JavaScript, React, Java and SQL
+- 💬 Ask me about: JavaScript, TypeScript, React, Java and SQL
 - ⚡ Fun fact: I love turning ideas into working apps
 
 ## 🛠️ Tech Stack
@@ -25,3 +24,5 @@
 
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-rabade/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sushant_rabade/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantrabade5454@gmail.com)
